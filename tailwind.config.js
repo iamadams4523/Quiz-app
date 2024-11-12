@@ -8,6 +8,9 @@ module.exports = {
         md: '780px',
         lg: '1024px',
       },
+      colors: {
+        softPink: '#F4DDDD',
+      },
     },
   },
   plugins: [],
