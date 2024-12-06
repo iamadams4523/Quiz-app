@@ -4,6 +4,7 @@ import LandingPage from './components/LandingPage';
 import CreateQuiz from './components/CreateQuiz';
 import JoinQuiz from './components/JoinQuiz';
 import QuizPage from './components/QuizPage';
+import Loader from './components/Loader';
 
 const App = () => {
   return (
